@@ -24,11 +24,11 @@ Web Browser (Google Chrome recommended)
 
 ## Live Demo
 
-[Live Demo Link](https://peteugwu.github.io/Webpack-setup/)
+[Live Demo Link](http://localhost:3000)
 
 ## How to Run
 
-[linkToSource](https://github.com/francis3400/Webpack-demo)
+[linkToSource](https://github.com/francis3400/Webpack-Demo/tree/webpack-demo)
 
 To run the project do the following:
 
